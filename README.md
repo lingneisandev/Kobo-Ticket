@@ -1,7 +1,7 @@
 
 
 markdown
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=CODEX+TICKET+BOT+USING+PY-CORD" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=KOBO+TICKET+BOT+USING+PY-CORD" alt="Typing SVG" /></a></p>
 
 <p align="center">
 <a href="https://github.com/ApsXminer/TICKET-BOT"><img src="https://img.shields.io/github/stars/ApsXminer/TICKET-BOT?colorA=24292f&colorB=f85149&style=for-the-badge"></a>
